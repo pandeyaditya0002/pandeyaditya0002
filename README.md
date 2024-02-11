@@ -1,13 +1,28 @@
-<h1 align="center">Hi 👋, I'm ADITYA PANDEY</h1> 
-<h3 align="center">Algorithm: Word used by programmers when they don’t want to explain what they did.</h3>
+## Hey 👋, I'm Aditya Pandey!
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/pandeyaditya225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeyaditya002" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aditya-pandey-45159b205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya pandey" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pandeyaditya0721/?igsh=eDFtMHBnczUzYWY2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aditya pandey" height="30" width="40" /></a>
+</p>
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Web Developer 📱, Devops Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+<br/>
+<br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" align="right" alt="code" width="400" >
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+  
+### 🧐 More About Me:
 
-- 🌱 I’m currently learning **Python , MySQL , webDevelopment**
+- 🔭 &nbsp; I’m currently working on **Weather-App**
+- 🌱 &nbsp; I’m currently learning Typescript; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pandeyaditya0002)
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aditya-pandey-45159b205/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/0/folders/1EBPJcH74VbKhbPEy2oTId0MeAOxjCbkg)
 
-- 💬 Ask me about **Python, AWS, MySQL, JavaScript, React, Angular, Bootstrap, Django ...**
 
-- 📫 How to reach me [**Aditya Pandey**](mailto:pandeyaditya225@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
+<br>
+- 📫 How to reach me [**Aditya Pandey**](mailto:pandeyaditya225@gmail.com)<img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
 
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -33,18 +48,4 @@
 
 
 <br>
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wasimtikki120&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dracula&hide_border=false&order=2&exclude_repo=Online-Examination-System" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=wasimtikki120&show_icons=true&locale=en&theme=dracula" width="395" />
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<h3 align="left">🏆 GitHub Profile Trophy:</h3>
-
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=wasimtikki120&theme=dracula" width="715" />
-</div>
