@@ -16,7 +16,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pandeyaditya0002)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [Mail](https://www.linkedin.com/in/aditya-pandey-45159b205/)
+- 📫 &nbsp; Feel free to ping me on [Mail](pandeyaditya225@gmail.com)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/0/folders/1EBPJcH74VbKhbPEy2oTId0MeAOxjCbkg)
 <br>
 - 📫 How to reach me [Mail](pandeyaditya225@gmail.com)
