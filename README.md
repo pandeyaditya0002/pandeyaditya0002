@@ -9,7 +9,6 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
@@ -19,11 +18,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/aditya-pandey-45159b205/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/0/folders/1EBPJcH74VbKhbPEy2oTId0MeAOxjCbkg)
-
-
 <br>
-- 📫 How to reach me [**Aditya Pandey**](mailto:pandeyaditya225@gmail.com)<img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
-
+- 📫 How to reach me [**Wasim Tikki**](mailto:m.wasimtikki@gmail.com) <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Email" width="25"/>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
