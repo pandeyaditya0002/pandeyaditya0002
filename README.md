@@ -18,8 +18,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 - 📫 &nbsp; Feel free to ping me on [Mail](pandeyaditya225@gmail.com)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/0/folders/1EBPJcH74VbKhbPEy2oTId0MeAOxjCbkg)
 
-
 ### 🔨 Languages and Tools:
+<br>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
