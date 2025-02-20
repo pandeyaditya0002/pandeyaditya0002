@@ -1,3 +1,5 @@
+#### **📱 Mobile Development** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 <h1 align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Aditya+Pandey;%F0%9F%9A%80+Full+Stack+Dev+%7C+AI%2FML+Enthusiast;%F0%9F%92%BB+Cloud-Native+Developer+%7C+DevOps+Engineer;%F0%9F%93%9D+UI%2FUX+Designer+%7C+QA+Specialist"></a>
 </h1>
