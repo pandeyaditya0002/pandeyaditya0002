@@ -1,4 +1,6 @@
- ## Hey 👋, I'm Aditya Pandey!
+# <𝚌𝚘𝚍𝚎>👨💻 Aditya Pandey</𝚌𝚘𝚍𝚎> 
+<img align="right" src="https://komarev.com/ghpvc/?username=pandeyaditya0002&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pandeyaditya225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeyaditya002" height="30" width="40" /></a>
@@ -9,14 +11,18 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <br/>
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
 
-- 🔭 &nbsp; I’m currently working on **AI Chat Bot**
-- 🌱 &nbsp; I’m currently learning AI/ML; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pandeyaditya0002)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [Mail](pandeyaditya225@gmail.com)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/0/folders/1EBPJcH74VbKhbPEy2oTId0MeAOxjCbkg)<br><br>
+<p align="left">
+  <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/coding.gif?raw=true" width="300" align="right">
+  
+  - 🔭 Currently building **AI-Powered Enterprise Solutions**
+  - 🌱 Mastering **Large Language Models & Cloud Architectures**
+  - 👨💻 4+ years full-stack development experience
+  - 🚀 DevOps enthusiast | CI/CD pipelines specialist
+  - 🎨 UI/UX designer with 10+ successful projects
+  - 🐛 QA expert with 500+ bugs squashed
+  - 📫 Reach me: [![Gmail](https://img.shields.io/badge/-pandeyaditya225@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pandeyaditya225@gmail.com)
+</p>
 
 ### 🔨 Languages and Tools:
 <br>
