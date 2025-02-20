@@ -23,14 +23,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
   <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/coding.gif?raw=true" width="300" align="right">
 
 
-  ### 🔨 About me :
+  ### 🔥 About me :
   - 🔭 Currently building **AI-Powered Enterprise Solutions**
   - 🌱 Mastering **Large Language Models & Cloud Architectures**
   - 👨💻 4+ years full-stack development experience
   - 🚀 DevOps enthusiast | CI/CD pipelines specialist
   - 🎨 UI/UX designer with 65+ successful projects
   - 🐛 QA expert with 500+ bugs squashed
-  - 📫 Reach me: [![Gmail](https://img.shields.io/badge/-pandeyaditya225@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pandeyaditya225@gmail.com)
+ - 📫 Reach me: [![Gmail](https://img.shields.io/badge/-pandeyaditya225@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pandeyaditya225@gmail.com)
 </p>
 
 ### 🔨 Languages and Tools:
