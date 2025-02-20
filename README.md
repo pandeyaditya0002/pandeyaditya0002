@@ -1,4 +1,11 @@
-# <𝚌𝚘𝚍𝚎>👨💻 Aditya Pandey</𝚌𝚘𝚍𝚎> 
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Aditya+Pandey;%F0%9F%9A%80+Full+Stack+Dev+%7C+AI%2FML+Enthusiast;%F0%9F%92%BB+Cloud-Native+Developer+%7C+DevOps+Engineer;%F0%9F%93%9D+UI%2FUX+Designer+%7C+QA+Specialist"></a>
+</h1>
+
+<div align="center">
+  <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/banner.gif?raw=true" width="800">
+</div>
+
 <img align="right" src="https://komarev.com/ghpvc/?username=pandeyaditya0002&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
 
 <h3 align="left">Connect with me:</h3>
