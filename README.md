@@ -1,80 +1,114 @@
-# <𝚌𝚘𝚍𝚎>👨💻 Aditya Pandey</𝚌𝚘𝚍𝚎> 
-<img align="right" src="https://komarev.com/ghpvc/?username=pandeyaditya0002&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pandeyaditya0002&theme=radical&border_radius=5)](https://git.io/streak-stats)
+<h1 align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Aditya+Pandey;%F0%9F%9A%80+Full+Stack+Dev+%7C+AI%2FML+Enthusiast;%F0%9F%92%BB+Cloud-Native+Developer+%7C+DevOps+Engineer;%F0%9F%93%9D+UI%2FUX+Designer+%7C+QA+Specialist"></a>
+</h1>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
-💡 &nbsp; Full-stack developer with DevOps expertise & design sensibilities<br>
-🚀 &nbsp; Building intelligent solutions at the intersection of AI and web technologies<br>
-🎨 &nbsp; UI/UX enthusiast who believes in "design first" development<br>
-📈 &nbsp; Open source contributor & tech community evangelist<br>
-☁️ &nbsp; Cloud native developer (AWS | Docker | Kubernetes)<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pandeyaditya0002&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet">
+</p>
 
----
-
-### 🔥 **Tech Stack**
-#### **Frontend**:
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
-
-#### **Backend**:
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
-
-#### **DevOps**:
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
-
-#### **Databases**:
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
-
----
-
-### 📈 **GitHub Stats**
 <div align="center">
-  <a href="https://github.com/pandeyaditya0002">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandeyaditya0002&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyaditya0002&layout=compact&langs_count=8&theme=radical"/>
+  <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/banner.gif?raw=true" width="800">
+</div>
+
+## <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></picture> **About Me**
+
+<p align="left">
+  <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/coding.gif?raw=true" width="300" align="right">
+  
+  - 🔭 Currently building **AI-Powered Enterprise Solutions**
+  - 🌱 Mastering **Large Language Models & Cloud Architectures**
+  - 👨💻 4+ years full-stack development experience
+  - 🚀 DevOps enthusiast | CI/CD pipelines specialist
+  - 🎨 UI/UX designer with 10+ successful projects
+  - 🐛 QA expert with 500+ bugs squashed
+  - 📫 Reach me: [![Gmail](https://img.shields.io/badge/-pandeyaditya225@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pandeyaditya225@gmail.com)
+</p>
+
+---
+
+### 🛠️ **Tech Stack**
+
+#### **Frontend Ecosystem**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+#### **Backend & AI/ML**
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+
+#### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+
+#### **Testing & QA**
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+
+---
+
+### 📊 **GitHub Analytics**
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pandeyaditya0002&theme=radical&border_radius=5&mode=weekly" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyaditya0002&layout=compact&theme=radical&langs_count=8" width="40%">
+</div>
+
+---
+
+### 🎨 **Design & Development Flow**
+<div align="center">
+  <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/design-process.gif?raw=true" width="800">
+</div>
+
+---
+
+### 🤝 **Let's Connect**
+
+<p align="center">
+  <a href="https://twitter.com/pandeyaditya225">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/aditya-pandey-45159b205/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/pandeyaditya0721/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
+
+---
+
+### 🕹️ **Coding Activity**
+![Snake animation](https://github.com/pandeyaditya0002/pandeyaditya0002/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+### 💡 **Latest Projects**
+<div align="center">
+  <a href="https://github.com/pandeyaditya0002/AI-Chat-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandeyaditya0002&repo=AI-Chat-Bot&theme=radical">
+  </a>
+  <a href="https://github.com/pandeyaditya0002/DevOps-Pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pandeyaditya0002&repo=DevOps-Pipeline&theme=radical">
   </a>
 </div>
 
 ---
 
-### 🚀 **Featured Projects**
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pandeyaditya0002&repo=AI-Chat-Bot&theme=radical)](https://github.com/pandeyaditya0002/AI-Chat-Bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pandeyaditya0002&repo=DevOps-Pipeline&theme=radical)](https://github.com/pandeyaditya0002/DevOps-Pipeline)
+### 📜 **Favorite Quote**
+> "Any application that can be written in JavaScript, will eventually be written in JavaScript."  
+> ― **Atwood's Law**
 
 ---
 
-### 🤝 **Let's Connect**
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pandeyaditya225)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pandey-45159b205/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyaditya225@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
-
----
-
-### 💡 **Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Node.js and Kubernetes](https://your-blog-link.com)
-- [AI Chatbots: From Concept to Production](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-<img src="https://raw.githubusercontent.com/pandeyaditya0002/pandeyaditya0002/main/developer.gif" width="300" align="right">
-
-### 🎯 **Current Focus**
-- 🔭 Developing next-gen AI conversational interfaces
-- 🌱 Mastering cloud-native architectures
-- 👯 Looking to collaborate on open-source AI projects
-- 🤔 Exploring Web3 and blockchain integration
-
-⭐ **Pro Tip:** _Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live._
+<div align="center">
+  <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/dino.gif?raw=true" width="600">
+</div>
