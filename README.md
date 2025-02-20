@@ -9,7 +9,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br/>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <br/>
-###  More about Me:
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
 
 - 🔭 &nbsp; I’m currently working on **AI Chat Bot**
 - 🌱 &nbsp; I’m currently learning AI/ML; 
