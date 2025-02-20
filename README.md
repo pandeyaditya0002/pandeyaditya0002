@@ -1,6 +1,6 @@
-<h1 align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Aditya+Pandey;%F0%9F%9A%80+Full+Stack+Dev+%7C+AI%2FML+Enthusiast;%F0%9F%92%BB+Cloud-Native+Developer+%7C+DevOps+Engineer;%F0%9F%93%9D+UI%2FUX+Designer+%7C+QA+Specialist"></a>
-</h1>
+<h2 align="center"> 
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=400&pause=1000&color=20C20E&center=true&vCenter=true&width=800&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Aditya+Pandey;%F0%9F%9A%80+Full+Stack+Dev+%7C+AI%2FML+Enthusiast;%F0%9F%92%BB+Cloud-Native+Developer+%7C+DevOps+Engineer;%F0%9F%93%9D+UI%2FUX+Designer+%7C+QA+Specialist"></a>
+</h2>
 
 <div align="center">
   <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/banner.gif?raw=true" width="800">
@@ -21,12 +21,14 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <p align="left">
   <img src="https://github.com/pandeyaditya0002/pandeyaditya0002/blob/main/coding.gif?raw=true" width="300" align="right">
-  
+
+
+  ### 🔨 About me :
   - 🔭 Currently building **AI-Powered Enterprise Solutions**
   - 🌱 Mastering **Large Language Models & Cloud Architectures**
   - 👨💻 4+ years full-stack development experience
   - 🚀 DevOps enthusiast | CI/CD pipelines specialist
-  - 🎨 UI/UX designer with 10+ successful projects
+  - 🎨 UI/UX designer with 65+ successful projects
   - 🐛 QA expert with 500+ bugs squashed
   - 📫 Reach me: [![Gmail](https://img.shields.io/badge/-pandeyaditya225@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pandeyaditya225@gmail.com)
 </p>
