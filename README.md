@@ -1,38 +1,80 @@
-## Hey 👋, I'm Aditya Pandey!
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pandeyaditya225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pandeyaditya002" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-pandey-45159b205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aditya pandey" height="30" width="40" /></a>
-<a href="https://www.instagram.com/pandeyaditya0721/?igsh=eDFtMHBnczUzYWY2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Aditya pandey" height="30" width="40" /></a>
-</p>
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, Web Developer 📱, Devops Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-<br/>
-###  More about Me:
+# <𝚌𝚘𝚍𝚎>👨💻 Aditya Pandey</𝚌𝚘𝚍𝚎> 
+<img align="right" src="https://komarev.com/ghpvc/?username=pandeyaditya0002&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
+[![GitHub Streak](https://streak-stats.demolab.com?user=pandeyaditya0002&theme=radical&border_radius=5)](https://git.io/streak-stats)
 
-- 🔭 &nbsp; I’m currently working on **AI Chat Bot**
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/pandeyaditya0002)
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [Mail](pandeyaditya225@gmail.com)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/drive/u/0/folders/1EBPJcH74VbKhbPEy2oTId0MeAOxjCbkg)
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me:**
+💡 &nbsp; Full-stack developer with DevOps expertise & design sensibilities<br>
+🚀 &nbsp; Building intelligent solutions at the intersection of AI and web technologies<br>
+🎨 &nbsp; UI/UX enthusiast who believes in "design first" development<br>
+📈 &nbsp; Open source contributor & tech community evangelist<br>
+☁️ &nbsp; Cloud native developer (AWS | Docker | Kubernetes)<br>
 
-### 🔨 Languages and Tools:
-<br>
+---
 
-<p align="left">
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+### 🔥 **Tech Stack**
+#### **Frontend**:
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)
 
-<br>
+#### **Backend**:
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat)
 
+#### **DevOps**:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)
+
+#### **Databases**:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat)
+
+---
+
+### 📈 **GitHub Stats**
+<div align="center">
+  <a href="https://github.com/pandeyaditya0002">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandeyaditya0002&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandeyaditya0002&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</div>
+
+---
+
+### 🚀 **Featured Projects**
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pandeyaditya0002&repo=AI-Chat-Bot&theme=radical)](https://github.com/pandeyaditya0002/AI-Chat-Bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pandeyaditya0002&repo=DevOps-Pipeline&theme=radical)](https://github.com/pandeyaditya0002/DevOps-Pipeline)
+
+---
+
+### 🤝 **Let's Connect**
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pandeyaditya225)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-pandey-45159b205/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyaditya225@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)
+
+---
+
+### 💡 **Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [Building Scalable Microservices with Node.js and Kubernetes](https://your-blog-link.com)
+- [AI Chatbots: From Concept to Production](https://your-blog-link.com)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img src="https://raw.githubusercontent.com/pandeyaditya0002/pandeyaditya0002/main/developer.gif" width="300" align="right">
+
+### 🎯 **Current Focus**
+- 🔭 Developing next-gen AI conversational interfaces
+- 🌱 Mastering cloud-native architectures
+- 👯 Looking to collaborate on open-source AI projects
+- 🤔 Exploring Web3 and blockchain integration
+
+⭐ **Pro Tip:** _Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live._
